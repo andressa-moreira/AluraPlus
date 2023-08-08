@@ -21,12 +21,12 @@ body{
 background-image: url(img/background.png);
 background-repeat: no-repeat;
 background-size: contain;
-grid-template-columns: 30% 30%;
 }
 
 .contrainer{
     height: 100vh;
     display: grid;
+    grid-template-columns: 30% 30%;
 }
 
 .container_botao{
