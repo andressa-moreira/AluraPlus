@@ -26,7 +26,7 @@ background-size: contain;
 .contrainer{
     height: 100vh;
     display: grid;
-    grid-template-columns: 30% 30%;
+    grid-template-columns: 10% 10%;
 }
 
 .container_botao{
