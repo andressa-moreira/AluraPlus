@@ -27,6 +27,7 @@ background-size: contain;
     height: 100vh;
     display: grid;
     grid-template-columns: 30% 30%;
+    font-size: 20px;
 }
 
 .container_botao{
