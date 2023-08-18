@@ -39,4 +39,7 @@ background-size: contain;
 .botao_secundario{
     background-color:transparent;
     border-radius: 16px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
 }
