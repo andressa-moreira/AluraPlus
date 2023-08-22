@@ -40,7 +40,7 @@ background-size: contain;
     text-decoration: none;
 }
 
-.botao_secundario{
+.container_botao_secundario{
     
     background-color:var(transparent);
     border: 2px solid var(--branco-principal);
