@@ -45,7 +45,7 @@ background-size: contain;
     background-color:var(transparent);
     border: 2px solid var(--branco-principal);
     border-radius: 16px;
-    text-decoration-color: aliceblue;
+    text-color:var(--branco-principal)
 }
 
 
