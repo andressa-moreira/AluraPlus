@@ -1,4 +1,4 @@
-:root {
+:root{
     --branco-principal:#ffffff;
     --branco-secundario:#C0C0C0;
     --botao-azul:#167BF7;
@@ -9,10 +9,10 @@
 
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--branco-principal)
+    color: var(--branco-principal);
 }
 
-. {
+.{
     margin:0;
     padding: 0;
 }
@@ -23,7 +23,7 @@ background-repeat: no-repeat;
 background-size: contain;
 }
 
-.contrainer{
+.container{
     height: 100vh;
     display: grid;
     grid-template-columns: 30% 30%;
