@@ -32,7 +32,7 @@ background-size: contain;
 
 .container_botao{
     background-color: var(--botao-azul);
-    border-radius: 10px;
+    border-radius: 16px;
     padding: 1em;
     color:var(--branco-principal);
     display: block;
