@@ -38,12 +38,14 @@ background-size: contain;
     color:var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .container_botao_secundario {
     background-color:var(transparent);
     border: 2px solid var(--branco-principal);
     border-radius: 16px;
+    text-decoration-color: aliceblue;
 }
 
 
@@ -66,4 +68,9 @@ background-size: contain;
 
     margin: 1em 0 2em 0;
 
+}text-decoration-color: aliceblue;
+
+.container_caixa {
+    margin: 0 6em;
+    margin-top: 150px;
 }
