@@ -26,8 +26,8 @@ background-size: contain;
 .container{
     height: 100vh;
     display: grid;
-    grid-template-columns: 30% 30%;
-    font-size: 25px;
+    grid-template-columns: 50% 50%;
+    
 }
 
 .container_botao{
@@ -39,10 +39,12 @@ background-size: contain;
 }
 
 .botao_secundario{
+    
     background-color:var(transparent);
     border: 2px solid var(--branco-principal);
     border-radius: 16px;
 }
+
 .container_aviso{
 
 }
