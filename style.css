@@ -21,6 +21,8 @@ body {
 background-image: url(Background.png);
 background-repeat: no-repeat;
 background-size: contain;
+align-items: center;
+text-align: center;
 }
 
 .container {
@@ -67,7 +69,7 @@ background-size: contain;
 
     margin: 1em 0 2em 0;
 
-}text-decoration-color: aliceblue;
+}
 
 .container_caixa {
     margin: 0 6em;
