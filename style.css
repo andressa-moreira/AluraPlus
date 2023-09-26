@@ -82,9 +82,11 @@ text-align: center;
     align-items: center;
 }
 
+
 .secundario {
     align-items: center;
 }
+
 
 .descricao__titulo {
     font-weight: 700;
@@ -93,18 +95,22 @@ text-align: center;
     margin-bottom: 0.1em;
 }
 
+
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
 
 .secundario__botao {
     display: inline-block;
     padding: 1em;
 }
 
+
 .container__descriçao {
     padding: 2em;
 }
+
 
 .dispositivos__lista {
     display: flex;
@@ -113,11 +119,21 @@ text-align: center;
     margin: 5em 0;
 }
 
+
 .dispositivos {
     text-align: center;
-    
+
 }
 
+
+.dispositivos__titulo {
+font-size: 48px;
+}
+
+
+.lista__item {
+font-size: 32px;
+}
 
 
 
