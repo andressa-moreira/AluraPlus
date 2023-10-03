@@ -133,7 +133,7 @@ font-size: 48px;
 
 .lista__item {
 font-size: 32px;
-display:inline;
+display:inline-block;
 
 }
 
