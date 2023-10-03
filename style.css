@@ -133,12 +133,16 @@ font-size: 48px;
 
 .lista__item {
 font-size: 32px;
+display:inline;
+
 }
 
 .dispositivo__item {
     font: size 32px;
 }
 
+.rodape__logo {
 
+}
 
 
