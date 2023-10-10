@@ -161,16 +161,16 @@ margin: 5em 3em;
 }
 
 .lista__link a:hover{
-color:var(--botao-azul)
+color:var(--botao-azul);
 }
 
 .lista__link a:active{
-color:purple
+color:purple;
 }
 
 .container__botao:hover{
 background-color: #3c92fa;
-color:var(--cor-de-fundo)
+color:var(--cor-de-fundo);
 }
 
 .rodape__texto {
