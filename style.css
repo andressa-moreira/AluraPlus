@@ -152,7 +152,7 @@ margin: 5em 3em;
     justify-content:center;
     list-style-type: none;
     margin-top: 1em;
-    text-align: inline;
+    text-align: inline-block;
 }
 
 .lista__link a {
