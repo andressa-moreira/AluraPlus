@@ -165,7 +165,7 @@ color:var(--botao-azul);
 }
 
 .lista__link a:active {
-color:purple
+color:purple;
 }
 
 .container__botao:hover {
@@ -174,5 +174,7 @@ color:var(--cor-de-fundo);
 }
 
 .rodape__texto {
-
+  margin: 1em 0;
+  color: var(--cinza-secundario);
+  font-size: 14px;
 }
