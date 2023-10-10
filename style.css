@@ -12,7 +12,7 @@ body {
     color: var(--branco-principal);
 }
 
-.{
+*{
     margin:0;
     padding: 0;
 }
@@ -21,21 +21,18 @@ body {
 background-image: url(Background.png);
 background-repeat: no-repeat;
 background-size: contain;
-align-items: center;
-text-align: center;
 }
 
 .container {
     height: 100vh;
     display: grid;
     grid-template-columns: 30% 30%;
-    font-size: 25px;
     
 }
 
 .container_botao {
     background-color: var(--botao-azul);
-    border-radius: 16px;
+    border-radius: 1em;
     padding: 1em;
     color:var(--branco-principal);
     display: block;
@@ -43,8 +40,8 @@ text-align: center;
     margin-bottom: 1em;
 }
 
-.container_botao_secundario {
-    background-color:var(transparent);
+.botao_secundario {
+    background-color:transparent;
     border: 2px solid var(--branco-principal);
     border-radius: 16px;
 }
